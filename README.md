@@ -1,6 +1,4 @@
-# My Project Story
-
-## Project Title: Building a Movie Recommendation System
+# Building a Movie Recommendation System
 
 ### Introduction
 
@@ -53,4 +51,5 @@ While working on this project, I encountered several challenges:
 - **Data Variety**: The dataset contained a wide variety of movie genres, ratings, and descriptions. Handling this diversity and making meaningful recommendations was a challenge.
 
 In conclusion, this project was a rewarding experience that combined my passion for movies with my interest in data analysis and machine learning. It allowed me to explore various technologies and learn valuable skills, despite the challenges faced along the way. It's a testament to the power of data and technology in providing personalized recommendations in the entertainment industry.
+
 Dataset : https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
